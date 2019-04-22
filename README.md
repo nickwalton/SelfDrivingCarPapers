@@ -15,6 +15,7 @@ A curated list of technical research papers relevant to self driving vehicles.
 Unsupervised Monocular Depth Learning from Unknown Cameras** (2019), A. Gordon et al. [[pdf]](https://arxiv.org/pdf/1904.04998.pdf)
 * **DeepStereo: Learning to Predict New Views from the World’s Imagery** (2015), J. Flynn et al. [[pdf]](https://arxiv.org/pdf/1506.06825)
 * **3D Bounding Box Estimation Using Deep Learning and Geometry** (2017), A. Mousavian et al. [[pdf]](https://arxiv.org/pdf/1612.00496.pdf)
+* **MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving** (2018) M. teichmann [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500504)
 
 ### Sensor Fusion / Mixed
 * **PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation** (2018), C. Xu et al. [[pdf]](https://arxiv.org/pdf/1711.10871)
